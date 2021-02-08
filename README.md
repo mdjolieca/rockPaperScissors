@@ -1,4 +1,4 @@
-# rockPaperScissors
+# Rock Paper Scissors
 A Codecademy javascript challenge, rock paper scissors game.
 
 ## Table of contents
